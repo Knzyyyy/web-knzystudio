@@ -2,8 +2,9 @@
 // sebelum menerima pesanan. Harga add-on berikut adalah estimasi sementara.
 export const CATALOG_CONFIG = {
   brand: 'Knzy Studio',
-  whatsappNumber: '',
-  anniversaryPin: '',
+  whatsappNumber: '6289531874348',
+  anniversaryPin: '000000',
+  birthdayPin: '000000',
   paymentUrl: '',
   addonsAreEstimates: true,
   products: [
