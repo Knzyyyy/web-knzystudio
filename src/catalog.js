@@ -10,19 +10,19 @@ export const CATALOG_CONFIG = {
   products: [
     {
       id: 'anniversary', name: 'Romantic Anniversary', shortName: 'Anniversary',
-      price: 45000, demo: 'https://webhappyanniversarydemo.vercel.app/',
+      price: 30000, demo: 'https://webhappyanniversarydemo.vercel.app/',
       description: 'Buat kisah kalian punya rumah kecilnya sendiri.',
       features: ['Gate PIN & segel lilin interaktif', 'Story slides, live counter & timeline', 'Galeri foto & video kenangan', 'Kartu alasan 3D, surat typewriter & musik'],
     },
     {
       id: 'birthday', name: 'Sweet Birthday', shortName: 'Birthday',
-      price: 40000, demo: 'https://web-happy-birthday-dusky.vercel.app/',
+      price: 30000, demo: 'https://web-happy-birthday-dusky.vercel.app/',
       description: 'Satu kejutan kecil, banyak senyum di hari lahirnya.',
       features: ['Animasi pembuka & kejutan interaktif', 'Galeri momen paling berkesan', 'Ucapan personal dari kamu', 'Musik latar untuk melengkapi suasana'],
     },
     {
       id: 'custom', name: 'Custom Request', shortName: 'Custom',
-      price: 75000, demo: null,
+      price: 50000, demo: null,
       description: 'Ada ide sendiri? Yuk, kita wujudkan bareng.',
       features: ['Bebas request warna & tema', 'Boleh kirim referensi TikTok / Instagram', 'Desain yang personal untuk si dia', 'Termasuk 2× revisi, mulai dengan DP 50%'],
     },
