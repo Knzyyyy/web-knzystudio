@@ -29,10 +29,10 @@ export const CATALOG_CONFIG = {
   ],
   addons: [
     { id: 'letter', name: 'Surat cinta typewriter', description: 'Kata-katamu, muncul satu per satu.', price: 10000, includedIn: ['anniversary'] },
-    { id: 'gallery', name: 'Ekstra galeri kenangan', description: 'Ruang tambahan untuk cerita kalian.', price: 15000, includedIn: [] },
+    { id: 'gallery', name: 'Ekstra galeri kenangan', description: 'Ruang tambahan untuk cerita kalian.', price: 10000, includedIn: [] },
     { id: 'playlist', name: 'Playlist spesial', description: 'Lebih banyak lagu, lebih banyak rasa.', price: 10000, includedIn: [] },
     { id: 'countdown', name: 'Countdown hari spesial', description: 'Hitung mundur menuju momen bahagia.', price: 10000, includedIn: [] },
-    { id: 'video', name: 'Opening video', description: 'Sambut dia dengan video pilihanmu.', price: 15000, includedIn: [] },
+    { id: 'video', name: 'Opening video', description: 'Sambut dia dengan video pilihanmu.', price: 10000, includedIn: [] },
   ],
   faqs: [
     { question: 'Aku nggak paham coding, bisa pesan?', answer: 'Bisa banget. Kamu cukup pilih template, siapkan foto dan ucapan, lalu kirim lewat WhatsApp. Knzy Studio yang bantu merangkainya jadi website hadiah untuk orang spesialmu.' },
